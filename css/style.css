@@ -1,0 +1,41 @@
+/****************  Tag CSS  ****************/
+body {
+    background-color: #F4DFBA;
+}
+
+h1 {
+    color: #CA965C;
+}
+
+h3 {
+    color: #CA965C;   
+}
+
+hr {
+    border-style: dotted none none none;
+    background-color: #F4DFBA;
+    border-color: #EEC373;
+    width: 7%;
+    border-width: 10px;
+}
+
+
+
+
+/******************  Class CSS ***************/
+.uppertable {
+    margin: 2%;
+    width: 70%;
+}
+.mypimg {
+    width: 90%;
+    border-radius: 100px;
+}
+
+.tdforpimg {
+    width: 30%;
+}
+
+.tdforbio {
+    width: 70%;
+}
